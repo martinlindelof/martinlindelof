@@ -15,4 +15,6 @@ It's either Godot = Small code base, good project structure, good enough
 to bring in assets and making UI. Just would need to extend the source code (mostly C/C++)
 and with a in-house renderer it would be sweet.
 
+or O3DE but it's been beta-ish and bloaty. But looks promising also.
+
 My github repos are mostly old stuff.
