@@ -2,7 +2,7 @@ Hello, robot.txt crawlers and fellow nerds.
 
 I like Blender 3D and 3D creation. I love-hate coding.
 
-Of all the languages I've tried, Rust made me realiez how much
+Of all the languages I've tried, Rust made me realize how much
 I love and think C/C++ makes the most sense.
 
 If you have a C++ job opening, maybe with Qt framework. e-mail me.
