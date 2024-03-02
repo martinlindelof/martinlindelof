@@ -1,4 +1,4 @@
-Hello, robot.txt crawlers and fellow nerds.
+Hello!
 
-I like Blender 3D, Linux, Neovim and Godot.
-Only coding C now-a-days.
+A computer nerd that likes Blender 3D and Open Source.
+I only code C/C++ for fun nowdays.
